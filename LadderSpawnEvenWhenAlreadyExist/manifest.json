@@ -3,7 +3,7 @@
   "Author": "asdfasd",
   "Version": "1.0.0",
   "Description": "Breaking rocks can still spawn ladders even if one already exists",
-  "UniqueID": "asdfasd.LadderSpawnEvenWhenAlreadyExist",
+  "UniqueID": "xlckvowaebr.LadderSpawnEvenWhenAlreadyExist",
   "EntryDll": "LadderSpawnEvenWhenAlreadyExist.dll",
   "MinimumApiVersion": "4.0.0",
   "UpdateKeys": []
